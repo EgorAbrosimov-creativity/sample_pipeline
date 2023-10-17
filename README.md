@@ -24,4 +24,4 @@ python predict.py <PATH TO YOUR DATA?>
 
 HOORAY!
 
-Note: this pipeline is not ideal. In my opinion, it could have been organized as a web service or and API, but due to the lack of time I figured it would suffice
+Note: this pipeline is not ideal. In my opinion, it could have been organized as a web service or as an API, but due to the lack of time I figured it would suffice
